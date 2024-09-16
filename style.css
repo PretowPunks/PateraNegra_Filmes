@@ -4,5 +4,7 @@ body {
 }
 
 header {
-    border: aliceblue 20px solid;
+    border: aliceblue 2px solid;
+    padding: 20px;
+    color: aliceblue;
 }
