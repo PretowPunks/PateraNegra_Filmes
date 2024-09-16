@@ -2,3 +2,10 @@ body {
     background: black;
     color: aliceblue;
 }
+
+header {
+    border-bottom: solid 2px rgb(34, 34, 106);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(34, 34, 106);
+}
